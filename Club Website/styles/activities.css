@@ -1,0 +1,16 @@
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+}
+
+p:first-line {
+	background-color: LightBlue;
+}
+p {
+	background-color: rgba(209, 242, 235, .5);
+}
+
+body.mountain {
+	/*background-image: url('../images/Mountain_view_.jpg');*/
+	background-size: 100vw;
+	background-color: #cccccc;
+}

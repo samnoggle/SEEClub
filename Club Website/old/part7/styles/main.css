@@ -1,0 +1,22 @@
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+}
+
+ul li {
+	font-size: 14pt;
+}
+
+a:hover, a:focus {
+	background-color: yellow;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
+
+h2:first-letter {
+	color: green;
+	font-size: 200%;
+}
